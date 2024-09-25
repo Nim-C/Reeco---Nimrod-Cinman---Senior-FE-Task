@@ -1,0 +1,37 @@
+.carousel-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.carousel {
+  overflow: auto;
+  align-content: center;
+}
+
+:is(button) {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  aspect-ratio: 1 / 1;
+  border: 0.125rem solid var(--misty-rose);
+  background-color: var(--eerie-black);
+}
+
+.items-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  scroll-behavior: smooth;
+  pointer-events: none;
+
+  & .item {
+    align-self: center;
+  }
+
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

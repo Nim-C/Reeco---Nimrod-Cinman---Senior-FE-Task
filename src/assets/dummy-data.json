@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Apple",
+    "description": "Fresh red apple",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UBT30_L_P_963372_1.png",
+    "category": "Fresh Produce"
+  },
+  {
+    "name": "Bread",
+    "description": "Whole wheat bread",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AQK24_L_P_6451521_1.png",
+    "category": "Bakery"
+  },
+  {
+    "name": "Pasta",
+    "description": "Spaghetti",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/QHP40_L_P_8004690050620_1.png",
+    "category": "Pantry"
+  },
+  {
+    "name": "Eggs",
+    "description": "Organic eggs",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VUE64_L_P_7296073224679_1.png",
+    "category": "Eggs"
+  },
+  {
+    "name": "Chicken",
+    "description": "Free-range chicken",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RLC28_L_P_9011395_1.png",
+    "category": "Meat"
+  },
+  {
+    "name": "Cheese",
+    "description": "Cheddar cheese",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/NLB54_L_P_7296073676010_1.png",
+    "category": "Dairy"
+  },
+  {
+    "name": "Banana",
+    "description": "Ripe banana",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ALP40_L_P_967684_1.png",
+    "category": "Fruits"
+  },
+  {
+    "name": "Salmon",
+    "description": "Wild-caught salmon",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/FFJ30_L_P_918174_1.png",
+    "category": "Fish"
+  },
+  {
+    "name": "Orange",
+    "description": "Juicy orange",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VNH34_L_P_964348_1.png",
+    "category": "Citric ftuits"
+  },
+  {
+    "name": "Potato",
+    "description": "Russet potato",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GKJ18_L_P_901404_1.png",
+    "category": "Roots"
+  },
+  {
+    "name": "Broccoli",
+    "description": "Organic broccoli",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/IMX56_L_P_7296073444190_1.png",
+    "category": "Green vegetables"
+  },
+  {
+    "name": "Lettuce",
+    "description": "Romaine lettuce",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/JVW12_L_P_282_1.png",
+    "category": "Greens Leafs"
+  },
+  {
+    "name": "Cucumber",
+    "description": "English cucumber",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ATU10_L_P_46_1.png",
+    "category": "Vegetables"
+  }
+]
